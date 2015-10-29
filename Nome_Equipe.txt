@@ -1,5 +1,8 @@
-Universidade Tecnologica Federal do Parana
+Universidade Tecnológica Federal do Paraná
+Projeto de Programação Orientada a Objetos
+Professor: Francisco (Thesko)
+Turma: N12-02/2015.
 
-Alunos: Diego 	
-	Mayara
+Alunos Envolvidos: Diego Vilella  	
+		   Mayara Barbosa
 	
