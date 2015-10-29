@@ -16,6 +16,9 @@ public class Saldo {
     	this.valor = valor;
     	this.vencimento = vencimento;
     }
+     public Saldo() {
+    	
+    }
     public float getValor() {
     	return this.valor;
     }
