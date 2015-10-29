@@ -12,7 +12,9 @@ public class Saldo {
 	private float valor;
 	private Calendar vencimento = Calendar.getInstance();
 	
-    public Saldo() {
+    public Saldo(float valor, Calendar vencimento) {
+    	this.valor = valor;
+    	this.vencimento = vencimento;
     }
     public float getValor() {
     	return this.valor;
@@ -20,10 +22,5 @@ public class Saldo {
     public Calendar getVencimento() {
     	return this.vencimento;
     }
-    public void setValor(float valor) {
-    	this.valor = valor;
-    }
-     public void setVencimento(Calendar vencimento) {
-    	this.vencimento = vencimento;
-    }
+   
 }
